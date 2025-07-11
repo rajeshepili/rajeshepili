@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there! I'm Rajesh Epili
 
-<!--
-**rajeshepili/rajeshepili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Connect with me
 
-Here are some ideas to get you started:
+- [Github](https://github.com/rajeshepili)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+
+#### 📌 [markdown-toc-generator](https://github.com/rajeshepili/markdown-toc-generator)
+*A simple Markdown TOC generator written in TypeScript*
+
+**Tech Stack:** `TypeScript` ・ ⭐ **2** ・ 🍴 **0**
+
+---
+
+### 📊 GitHub Stats
+
+- 📦 **Public Repos:** 3
+### 🙌 Thanks for stopping by!
